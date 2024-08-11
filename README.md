@@ -10,7 +10,7 @@
 
 - 📫 Reach me **abdullah.softech@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing](https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing](https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
