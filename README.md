@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN and MEAN Stack**
+- 🔭 Currently working on **MERN and MEAN Stack**
 
-- 📫 How to reach me **abdullah.softech@gmail.com**
+- 📫 Reach me **abdullah.softech@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing](https://drive.google.com/file/d/1BHX3Ufg96IhdwdjXSWpICE45KI86JUku/view?usp=sharing)
 
