@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ahmad</h1>
 <h3 align="center">A passionate MERN and MEAN Stack developer</h3>
-
+<img src="[https://komarev.com/ghpvc/?username=abdullahsoftech&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/79d3363e302c19d70a6afbc3055261626f961c6035b729007e5cf08dd06158ad/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763514d773875395841656a426d6d4362614e4276667870674f42342d3049343448686d644126757371703d434155)" alt="abdullahsoftech" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsoftech&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsoftech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
