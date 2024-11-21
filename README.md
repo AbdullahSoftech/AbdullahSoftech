@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ahmad</h1>
-<h3 align="center">A passionate MERN and MEAN Stack developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" alt="abdullahsoftech" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsoftech&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsoftech" /> </p>
